@@ -1,0 +1,32 @@
+[
+  {
+    "id": "junit",
+	"icon": "https://www.alleycat.org/wp-content/uploads/2019/03/FELV-cat.jpg",
+    "description": "Reinforce you ReportPortal instance with JUnit import functionality and easily upload your log files right to ReportPortal.",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "date": "May 7, 2024, 2:42:18 PM",
+        "url": "https://raw.githubusercontent.com/reportportal/plugin-import-junit/main/jars/plugin-import-junit-1.0.0-all.jar"
+      },
+	  {
+        "version": "1.0.1",
+        "date": "Jun 7, 2025, 2:42:18 PM",
+        "url": "https://raw.githubusercontent.com/reportportal/plugin-import-junit/main/jars/plugin-import-junit-1.0.1-all.jar"
+      }
+    ]
+  },
+  {
+    "id": "telegram",
+	"icon": "https://www.alleycat.org/wp-content/uploads/2019/03/FELV-cat.jpg",
+    "description": "Reinforce you ReportPortal instance with Telegram functionality and easily upload your log files right to ReportPortal.",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "date": "May 7, 2024, 2:42:18 PM",
+		"supportedRelaeses": [24.1,24.2],
+        "url": "https://raw.githubusercontent.com/reportportal/plugin-import-junit/main/jars/plugin-telegram-1.0.0-all.jar"
+      }
+    ]
+  }
+]
