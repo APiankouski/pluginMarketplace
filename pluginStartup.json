@@ -9,7 +9,13 @@
         "date": "May 7, 2024, 2:42:18 PM",
 	"supportedRelaeses": [24.1,24.2],
         "url": "https://raw.githubusercontent.com/APiankouski/pluginMarketplace/main/plugin-telegram-25.1.jar"
-      }
+      },
+      {
+        "version": "1.0.1",
+        "date": "May 7, 2024, 2:42:18 PM",
+	"supportedRelaeses": [24.1,24.2],
+        "url": "https://raw.githubusercontent.com/APiankouski/pluginMarketplace/main/plugin-telegram-25.2.jar"
+      }	    
     ]
   },
 {
