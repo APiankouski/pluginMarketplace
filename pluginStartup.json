@@ -11,5 +11,18 @@
         "url": "https://raw.githubusercontent.com/APiankouski/pluginMarketplace/main/plugin-telegram-25.1.jar"
       }
     ]
-  }
+  },
+{
+    "id": "jira",
+    "icon": "https://www.alleycat.org/wp-content/uploads/2019/03/FELV-cat.jpg",
+    "description": "Reinforce you ReportPortal instance with Jira functionality.",
+    "releases": [
+      {
+        "version": "25.1",
+        "date": "May 7, 2024, 2:42:18 PM",
+	"supportedRelaeses": [24.1,24.2],
+        "url": "https://raw.githubusercontent.com/APiankouski/pluginMarketplace/main/plugin-bts-jira-25.1.jar"
+      }
+    ]
+  }	
 ]
