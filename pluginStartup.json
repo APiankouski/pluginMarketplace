@@ -8,13 +8,13 @@
       {
         "version": "1.0.0",
         "date": "May 7, 2024, 2:42:18 PM",
-	"requires": ">=25.1",
+	"requires": ">=5.14.0",
         "url": "https://raw.githubusercontent.com/APiankouski/pluginMarketplace/main/plugin-telegram-25.1.jar"
       },
       {
         "version": "1.0.1",
         "date": "May 7, 2024, 2:42:18 PM",
-	"requires": ">=25.2",
+	"requires": ">=5.15.0",
         "url": "https://raw.githubusercontent.com/APiankouski/pluginMarketplace/main/plugin-telegram-25.2.jar"
       }	    
     ]
