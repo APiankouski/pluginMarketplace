@@ -1,7 +1,7 @@
 [
   {
     "id": "telegram",
-    "icon": "https://www.alleycat.org/wp-content/uploads/2019/03/FELV-cat.jpg",
+    "icon": "https://pngimg.com/uploads/telegram/telegram_PNG12.png",
     "description": "Reinforce you ReportPortal instance with Telegram functionality and easily upload your log files right to ReportPortal.",
     "provider": "ReportPortal",
     "releases": [
