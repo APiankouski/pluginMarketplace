@@ -8,13 +8,13 @@
       {
         "version": "1.0.0",
         "date": "May 7, 2024, 2:42:18 PM",
-	"requires": ">=5.14.0",
+	      "requires": ">=5.14.0",
         "url": "https://raw.githubusercontent.com/APiankouski/pluginMarketplace/main/plugin-telegram-25.1.jar"
       },
       {
         "version": "1.0.1",
         "date": "May 7, 2024, 2:42:18 PM",
-	"requires": ">=5.15.0",
+	      "requires": ">=5.15.0",
         "url": "https://raw.githubusercontent.com/APiankouski/pluginMarketplace/main/plugin-telegram-25.2.jar"
       }	    
     ]
@@ -26,10 +26,10 @@
     "provider": "ReportPortal",
     "releases": [
       {
-        "version": "25.1.0",
+        "version": "25.2.0",
         "date": "May 7, 2024, 2:42:18 PM",
-	"requires": ">=5.14.0",
-        "url": "https://raw.githubusercontent.com/APiankouski/pluginMarketplace/main/plugin-bts-jira-25.1.jar"
+	      "requires": ">=5.14.0",
+        "url": "https://raw.githubusercontent.com/APiankouski/pluginMarketplace/main/plugin-bts-jira-25.2.0.jar"
       }
     ]
   },
@@ -40,12 +40,11 @@
     "provider": "ReportPortal",
     "releases": [
       {
-        "version": "25.1.0",
+        "version": "25.2.0",
         "date": "May 7, 2024, 2:42:18 PM",
-	"requires": ">=5.14.0",
-        "url": "https://raw.githubusercontent.com/APiankouski/pluginMarketplace/main/plugin-bts-gitlab-25.2.jar"
+	      "requires": ">=5.14.0",
+        "url": "https://raw.githubusercontent.com/APiankouski/pluginMarketplace/main/plugin-bts-gitlab-25.2.0.jar"
       }
     ]
-  }	
-	
+  }
 ]
