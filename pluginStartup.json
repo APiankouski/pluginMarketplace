@@ -21,7 +21,7 @@
   },
 {
     "id": "jira",
-    "icon": "https://www.alleycat.org/wp-content/uploads/2019/03/FELV-cat.jpg",
+    "icon": "https://www.pngfind.com/pngs/m/616-6169356_a-complete-guide-for-beginners-atlassian-jira-jira.png",
     "description": "Reinforce you ReportPortal instance with Jira functionality.",
     "provider": "ReportPortal",
     "releases": [
@@ -35,7 +35,7 @@
   },
   {
     "id": "gitlab",
-    "icon": "https://www.alleycat.org/wp-content/uploads/2019/03/FELV-cat.jpg",
+    "icon": "https://img.icons8.com/?size=48&id=34886&format=png",
     "description": "Reinforce you ReportPortal instance with Gitlab functionality.",
     "provider": "ReportPortal",
     "releases": [
